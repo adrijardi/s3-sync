@@ -14,5 +14,5 @@ lazy val publishSettings = Seq(
   publishTo := sonatypePublishToBundle.value,
   publishMavenStyle := true,
   licenses := Seq("APL2" -> url("http://www.apache.org/licenses/LICENSE-2.0.txt")),
-  sonatypeProjectHosting := Some(GitHubHosting("adrijardi", "s3-sync", "adrian@coding42.com")),
+  sonatypeProjectHosting := Some(GitHubHosting("adrijardi", "s3-sync", "adrian@coding42.com"))
 )
