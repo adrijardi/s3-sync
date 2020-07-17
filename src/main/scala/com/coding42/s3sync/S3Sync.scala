@@ -1,4 +1,4 @@
-package com.coding42.sbtsync
+package com.coding42.s3sync
 
 import sbt._
 

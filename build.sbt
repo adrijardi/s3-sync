@@ -7,7 +7,7 @@ lazy val root = (project in file("."))
     sbtPlugin := true,
     organization := "com.coding42",
     name := "s3-sync",
-    version := "0.1.0"
+    version := "0.1.1"
   )
 
 lazy val publishSettings = Seq(
